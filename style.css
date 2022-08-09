@@ -10,27 +10,27 @@
 
 
 
-	--a: #687A84;
+	/* --a: #687A84;
 	--b: #f7882f;
 	--c: #f7c331;
-	--d: #DCC7AA;
-/*
+	--d: #DCC7AA; */
+
 	--a: #000;
 	--b: gold;
 	--c: #777;
 	--d: #DCC7AA;
-	*/
-/*
-	--a: #f81b84;
+	
+
+	/* --a: #f81b84;
 	--b: #f2eee2;
 	--c: #000;
-	--d: #DCC7AA;
-*/
-	/*
+	--d: #DCC7AA; */
+
+/* 	
 	--a: #687A84;
 	--b: #f7882f;
 	--c: #f7c331;
-	--d: #DCC7AA;*/
+	--d: #DCC7AA; */
 
 
 																/*Fonts*/
@@ -44,17 +44,17 @@
 	--h:"Oswald";
 	--l:"Montserrat";
 */
-/*
+
 	--h:"Lobster";
 	--l:"Roboto Mono";
-*/
+
 /*
 	--h:"Josefin Sans";
 	--l:"Josefin Slab";
 */
 
-	--h:"Pacifico";
-	--l:"Josefin Sans";
+	/* --h:"Pacifico";
+	--l:"Josefin Sans"; */
 
 	/*
 	--h:"Montserrat";
